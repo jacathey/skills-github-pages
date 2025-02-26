@@ -1,5 +1,5 @@
 ---
-Strong Gravitational Lensing
+title: Strong Gravitational Lensing
 ---
 
 # Nature's Magnifying Glass
