@@ -2,4 +2,4 @@
 Strong Gravitational Lensing
 ---
 
-# Strong Gravitational Lensing: Nature's Magnifying Glass
+# Nature's Magnifying Glass
