@@ -38,7 +38,14 @@
         <hr>
         <div class="content-wrapper">
           <aside class="sidebar">
-	    <h2>Debug: Categories</h2>
+	    <h2>Debug: Posts</h2>
+	    <ul>
+	      {% for post in site.posts %}
+	        <li>{{ post.title }} - Categories: {{ post.categories | join: ", " }}</li>
+	      {% endfor %}
+	    </ul>
+		  
+ 	    <h2>Debug: Categories</h2>
 	    <ul>
 	      {% for category in site.categories %}
 	        <li>{{ category[0] }} ({{ category[1] | size }} posts)</li>
