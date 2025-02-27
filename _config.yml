@@ -7,3 +7,7 @@ description:
   Hi, I'm Jared Cathey, a Ph.D. candidate in the Department of Astronomy at the University of Florida, working with my advisor Dr. Anthony Gonzalez. My study focuses on strong gravitational lensing reconstruction, particularly for galaxy-galaxy lenses identified by the South Pole Telescope (SPT) collaboration. I am a part of the Submillimeter Galaxy working group within SPT where I’ve primarily focused on our JWST imaged galaxies since launch as I am a part of the JWST Early Release Science program TEMPLATES as well.
   
   One of the things I found frustrating as a younger graduate student was catching up on, and learning everything I needed to know for gravitational lensing, dusty star forming galaxies, theory, coding, statistics, and more. My goal for this page is to act as somewhat of an introductory crash course, not as robust as actually going and reading papers and doing the derivations, but enough to get someone like a younger version of myself into action. My short bit of advice for someone else actually starting research in this field is learn the lensing basics first, and go back and fill in the details of how we even get there. That said, this page will not follow that advice, but I should have a useful table of contents to help organize this for the reader. 
+collections:
+  categories:
+    output: true
+    premalink: /categories/:path/
